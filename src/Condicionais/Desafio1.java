@@ -1,4 +1,4 @@
-package Logica;
+package Condicionais;
 import java.util.Scanner;
 
 
@@ -7,7 +7,7 @@ import java.util.Scanner;
 //gitInforme se ele é par ou ímpar.
 
 
-public class ParOuImpar {
+public class Desafio1 {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
         System.out.print("Digite um número e veja se é par ou impar: ");

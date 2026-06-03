@@ -1,11 +1,11 @@
-package Logica;
+package Condicionais;
 import java.util.Scanner;
 
 //Maior de três números
 //Leia três números inteiros.
 //Mostre qual é o maior.
 
-public class numMaior {
+public class Desafio4 {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
 
